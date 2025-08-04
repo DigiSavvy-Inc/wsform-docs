@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/make/](https://wsform.com/knowledgebase/make/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons- Make Add-On- Airtable Add-On- Google Sheets Add-On- AI- CRM- Cloud Storage- Communication- Databases- Email Marketing- Gallery- Hosting- Integration- PDF- Payment Gateways- Spam- Spreadsheets- Support Platforms- WooCommerce- WordPress Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Make Add-OnPRO
-
 This knowledge base article relates to the WS Form Make add-on.
 Included with the Freelance & Agency editions or buy separately for the personal edition.
 
@@ -96,10 +87,3 @@ The date / time the submission will be purged (Blank for no expiry).
 `admin_url`
 Admin URL
 The URL to view the submission in the WordPress admin.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

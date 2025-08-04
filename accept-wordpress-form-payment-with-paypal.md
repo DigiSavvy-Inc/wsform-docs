@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/paypal_checkout/](https://wsform.com/knowledgebase/paypal_checkout/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons- Make Add-On- Airtable Add-On- Google Sheets Add-On- AI- CRM- Cloud Storage- Communication- Databases- Email Marketing- Gallery- Hosting- Integration- PDF- Payment Gateways-- ConvesioPay Add-On-- Mollie Add-On (BETA)-- Stripe Elements Add-On-- PayPal Checkout Add-On-- Authorize.Net Accept Add-On- Spam- Spreadsheets- Support Platforms- WooCommerce- WordPress Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# PayPal Checkout Add-OnPRO
-
 This knowledge base article relates to the WS Form PayPal Checkout add-on.
 Included with the Freelance & Agency editions or buy separately for the personal edition.
 
@@ -190,10 +181,3 @@ WS Form PRO processes any error messages as standard WS Form messages. The error
 ### Breakpoints
 
 The breakpoint settings define the width of a field and also what the offset (how many columns from the left-hand side of the form or the previous field) of a field is for each breakpoint. For more information about the breakpoint settings and capabilities of WS Form, click here.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

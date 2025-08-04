@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/variables/](https://wsform.com/knowledgebase/variables/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers- Add File Types to File Upload Fields in WordPress- CommandUI- Variables Helper- HTML Form Attributes- How to Get the Post ID after Creating a Post- Performance Plugin Considerations- Clearing the Session ID Using the Debug Console- Custom Project Development- Database Tables- How To Delete Submission Records Using MySQL- Debug Console - Testing and Debugging Forms- Writing Custom HTML for Email Content and PDF Templates- Run JavaScript on Form Load- Variables Reference- Cookies- User Capabilities- Performance- Javascript Events- Input Masks- Date Formats E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Variables Reference
-
 WS Form variables enable you to add dynamic content to various elements of your form such as default field values and email templates.
 
 Looking for some of our most commonly used variables? Check out our Variable Cheat Sheet!
@@ -96,7 +87,6 @@ Name / VariableAdditional InformationRadio Label`[#radio_label(field_id, "delimi
 
 Name / VariableAdditional InformationRandom Number`[#random_number(min, max)](https://wsform.com/knowledgebase/create-random-values/)`Outputs an integer between the specified minimum and maximum attributes. This function does not generate cryptographically secure values, and should not be used for cryptographic purposes. For more information about this variable, [click here](https://wsform.com/knowledgebase/create-random-values/).#### Random Strings
 
-Name / VariableAdditional InformationRandom String`[#random_string(length, "characters")](https://wsform.com/knowledgebase/create-random-values/)`Outputs a string of random characters. Use the length attribute to control how long the string is and use the characters attribute to control which characters are randomly selected. This function does not generate cryptographically secure values, and should not be used for cryptographic purposes. For more information about this variable, [click here](https://wsform.com/knowledgebase/create-random-values/).#### Search
 
 Name / VariableAdditional InformationQuery`#search_query`Returns the search query.#### Seconds
 
@@ -134,10 +124,3 @@ Name / VariableAdditional InformationCount`[#word_count](https://wsform.com/know
 
 Name / VariableAdditional InformationTicket ID`#zendesk_ticket_id`Returns the ID of the created ticket.Ticket URL`#zendesk_ticket_url`Returns the URL of the created ticket in your Zendesk account. Do not use this URL in any communications to the person submitting the ticket.
 Keywords: merge tags
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

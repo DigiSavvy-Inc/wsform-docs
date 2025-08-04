@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/repeatable-sections/](https://wsform.com/knowledgebase/repeatable-sections/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections- Sections- Repeatable Sections- Section Library Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Repeatable SectionsPRO
-
 Repeatable sections (repeaters) enable someone to duplicate a row of fields on your form. This is useful for order forms, lists of names and any other form where adding additional rows of fields would make completing a form easier.
 
 ## Demo
@@ -46,10 +37,3 @@ To learn more about conditional logic options for repeatable sections, read our 
 To learn more about variables for repeatable sections, read our How To knowledge base article.
 
 ## Tutorials
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

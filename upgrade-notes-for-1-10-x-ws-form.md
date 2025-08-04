@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/upgrade-notes-for-1-10-x/](https://wsform.com/knowledgebase/upgrade-notes-for-1-10-x/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms- How to Change Which Style a Form Uses- Upgrade Notes for 1.10.x- CSS Variables Reference- Creating a Light / Dark Form Theme- Styler- Styles- HTML Form Attributes- Setting Custom Breakpoint Sizes- Show a Loader During Form Processing- Responsive Forms- Style Checkboxes- Style Radios Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Upgrade Notes for 1.10.x
-
 Release date: January 2, 2025.
 
 Version 1.10.x of WS Form introduces a new Styler system that provides greater control for WordPress form design.
@@ -22,7 +13,6 @@ The new system is designed to be backward compatible with earlier versions of WS
 
 Whenever you upgrade a plugin, theme or core in WordPress:
 
-## Improved Accessibility
 
 Version 1.10.x introduces some new accessibility features that may have a subtle effect on your forms.
 
@@ -67,10 +57,3 @@ This replaces an SVG that was used for the strength meter and improves the abili
 ### Select Fields
 
 The dropdown arrow on Select fields has been converted from an SVG file to a pure CSS icon. This allows for easier resizing and coloring.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

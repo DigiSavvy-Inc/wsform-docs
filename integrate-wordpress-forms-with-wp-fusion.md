@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/wp-fusion/](https://wsform.com/knowledgebase/wp-fusion/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons- Make Add-On- Airtable Add-On- Google Sheets Add-On- AI- CRM- Cloud Storage- Communication- Databases- Email Marketing- Gallery- Hosting- Integration-- Make Add-On-- FunnelKit Add-On-- Pabbly Add-On-- WP Fusion Add-On-- Zapier Add-On- PDF- Payment Gateways- Spam- Spreadsheets- Support Platforms- WooCommerce- WordPress Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# WP Fusion Add-OnPRO
-
 WP Fusion synchronizes WS Form submissions with leading CRMs and marketing automation systems, keeps user profiles in sync with CRM contact records.
 
 If you have the WP Fusion plugin installed you will find WP Fusion listed as an option when editing the actions of a form. This action will push the form submission to the CRM configured in WP Fusion.
@@ -57,10 +48,3 @@ To create a custom mapping:
 ### Apply Lists
 
 To apply lists:
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

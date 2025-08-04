@@ -2,16 +2,6 @@
 
 > **Source**: [https://wsform.com/knowledgebase/send-email/](https://wsform.com/knowledgebase/send-email/)
 
-
-Category
-
-Select...
- Getting Started Accessibility Actions- Actions- Advanced- Basic-- Send Email Action-- Save Submission Action-- Show Message Action-- Redirect Action Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Send Email Action
-
 The Send Email action lets you send any number of emails to recipients when a form is saved or submitted.
 
 This action is fully configurable and allows you to:
@@ -150,11 +140,4 @@ You can enter straight text or use a WS Form variable in this field. For more i
 
 This field defaults to #blog_charset which enters the character set of your website.
 
-### 
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-
+###

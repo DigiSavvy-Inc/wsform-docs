@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/textarea/](https://wsform.com/knowledgebase/textarea/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields- Advanced- Basic-- Text Field-- Number Field-- Phone Field-- Email Field-- URL Field-- Text Area Field- Buttons- Choice- Consent- Content- E-Commerce- Mapping- Repeatable Sections- Spam Protection Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Text Area Field
-
 The Text Area field creates a text area input for your form. This field is useful for storing larger volumes of text or text requiring multiple lines. For example you might want to use this field to store an inquiry or customer feedback.
 
 ## Demo
@@ -99,7 +90,6 @@ The prefix and suffix settings allow you to add a prefix box and/or suffix box t
 
 For example, you could add a unit of measure as a suffix, or an @ symbol as a prefix.
 
-### Accessibility
 
 #### ARIA Label
 
@@ -299,10 +289,3 @@ To add a custom attributes key value pair:
 ### Breakpoints
 
 The breakpoint settings define the width of a field and also what the offset (how many columns from the left-hand side of the form or the previous field) of a field is for each breakpoint. For more information about the breakpoint settings and capabilities of WS Form, click here.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

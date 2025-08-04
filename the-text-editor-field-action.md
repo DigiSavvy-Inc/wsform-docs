@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/texteditor/](https://wsform.com/knowledgebase/texteditor/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields- Advanced- Basic- Buttons- Choice- Consent- Content-- Validation Field-- Summary Field-- Note Field-- Spacer Field-- Divider Field-- Text Editor Field-- HTML Field-- Message Field- E-Commerce- Mapping- Repeatable Sections- Spam Protection Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Text Editor Field
-
 The Text Editor field is  used to output text on your form. Text is entered using the standard WordPress visual editor, which means you can apply formatting to the text such as bold, italics, and underline.
 
 ## Adding a Text Editor Field
@@ -71,10 +62,3 @@ The wrapper CSS class setting enables you to add a class (or classes) to a field
 ### Breakpoints
 
 The breakpoint settings define the width of a field and also what the offset (how many columns from the left-hand side of the form or the previous field) of a field is for each breakpoint. For more information about the breakpoint settings and capabilities of WS Form, click here.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

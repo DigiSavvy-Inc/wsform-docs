@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/google-sheets/](https://wsform.com/knowledgebase/google-sheets/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons- Make Add-On- Airtable Add-On- Google Sheets Add-On- AI- CRM- Cloud Storage- Communication- Databases- Email Marketing- Gallery- Hosting- Integration- PDF- Payment Gateways- Spam- Spreadsheets- Support Platforms- WooCommerce- WordPress Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Google Sheets Add-OnPRO
-
 This knowledge base article relates to the WS Form Google Sheets add-on.
 Included with the Agency edition or buy separately for other editions.
 
@@ -86,10 +77,3 @@ To add a custom mapping:
 #### Repeater to Rows
 
 This setting allows you to push repeatable section rows as rows in the Google Sheet. Choose which repeater you want to use and WS Form will create a sheet row for each repeater row. Any fields outside of the repeater will be duplicated to each row.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

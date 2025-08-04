@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/debug-console/](https://wsform.com/knowledgebase/debug-console/)
 
 
-Category
-
-Select...
- Getting Started- The Variable Cheat Sheet- Licensing- Adding Forms to Your Website- Creating a Form- Debug Console - Testing and Debugging Forms- Global Settings- How to Change Email Notification Settings- Installation- Introduction- Publishing Forms- The Anatomy of a Form Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Debug Console – Testing and Debugging FormsPRO
-
 The debug console enables rapid testing and debugging of WordPress forms created with WS Form PRO when viewing a form.
 
 It has a populate feature that automatically completes the fields on your form with appropriate data and, in most cases, will enable you to submit a test form in a single click!
@@ -99,10 +90,3 @@ The  logs tab provides useful information as events occur in your tab. Differen
 ### Errors
 
 Any server side errors that occur are captured here. This is useful for debugging errors such as email send issues or API connection issues with third parties such as MailChimp or ConstantContact if your key is incorrect.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

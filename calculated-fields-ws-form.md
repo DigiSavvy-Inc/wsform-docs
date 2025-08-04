@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/calculated-fields/](https://wsform.com/knowledgebase/calculated-fields/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields- Calculate Character and Word Counts for a Form Field- Number Rounding Examples- Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Calculated FieldsPRO
-
 The #calc calculated fields function in WS Form PRO makes it easy to create calculate field values that are updated in realtime. It can handle everything from simple addition to more complex trigonometric functions.
 
 ## Demo
@@ -114,10 +105,3 @@ Name / VariableAdditional InformationFormat Number#number_format(number, decimal
 Name / VariableAdditional InformationRandom Number#random_number(min, max)Outputs an integer between the specified minimum and maximum attributes. This function does not generate cryptographically secure values, and should not be used for cryptographic purposes. For more information about this variable, click here.#### Seconds
 
 Name / VariableAdditional InformationSeconds in a day#seconds_dayReturns the number of seconds in a day. For more information about this variable, click here.Seconds since Epoch#seconds_epochReturns the number of seconds since the Unix Epoch (January 1 1970 00:00:00 GMT). For more information about this variable, click here.Seconds since Epoch at midnight#seconds_epoch_midnightReturns the number of seconds since the Unix Epoch (January 1 1970 00:00:00 GMT) to the closest previous midnight. For more information about this variable, click here.Seconds in an hour#seconds_hourReturns the number of seconds in an hour. For more information about this variable, click here.Seconds in a minute#seconds_minuteReturns the number of seconds in a minute. For more information about this variable, click here.Seconds in a week#seconds_weekReturns the number of seconds in a week. For more information about this variable, click here.Seconds in a year#seconds_yearReturns the number of seconds in a common year. For more information about this variable, click here.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

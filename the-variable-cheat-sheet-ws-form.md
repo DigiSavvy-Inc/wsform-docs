@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/the-ws-form-variable-cheat-sheet/](https://wsform.com/knowledgebase/the-ws-form-variable-cheat-sheet/)
 
 
-Category
-
-Select...
- Getting Started- The Variable Cheat Sheet- Licensing- Adding Forms to Your Website- Creating a Form- Debug Console - Testing and Debugging Forms- Global Settings- How to Change Email Notification Settings- Installation- Introduction- Publishing Forms- The Anatomy of a Form Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# The Variable Cheat SheetPRO
-
 While you can achieve a whole lot in WS Form without using variables, you can create even more dynamic and powerful forms using them.
 
 Variables can be used in a variety of places, including:
@@ -190,10 +181,3 @@ Returns the server date and time in a specified format (PHP date format).
 Learn more about date formats
 
 For a complete reference of all the available variables, click here.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

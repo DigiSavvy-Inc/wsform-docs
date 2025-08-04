@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/creating-a-light-dark-form-theme/](https://wsform.com/knowledgebase/creating-a-light-dark-form-theme/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms- How to Change Which Style a Form Uses- Upgrade Notes for 1.10.x- CSS Variables Reference- Creating a Light / Dark Form Theme- Styler- Styles- HTML Form Attributes- Setting Custom Breakpoint Sizes- Show a Loader During Form Processing- Responsive Forms- Style Checkboxes- Style Radios Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Creating a Light / Dark Form ThemePRO
-
 The WS Form Styler can create alternative color schemes for your WordPress forms. The most popular application for alternative color schemes is to build a light / dark theme.
 
 Dark and light themes can improve accessibility by enhancing readability, reducing visual strain, accommodating diverse visual needs, and aligning with user preferences for a more inclusive and customizable experience. Of course, the effectiveness of alternative themes depends on the colors you choose. We encourage you to choose high contrast colors throughout to improve accessibility.
@@ -63,10 +54,3 @@ To test your alternative color scheme:
 When WS Form is using an alternative color scheme, the following class is added to the HTML element:
 
 wsf-styler-scheme-alt
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

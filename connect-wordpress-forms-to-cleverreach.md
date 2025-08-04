@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/cleverreach/](https://wsform.com/knowledgebase/cleverreach/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons- Make Add-On- Airtable Add-On- Google Sheets Add-On- AI- CRM- Cloud Storage- Communication- Databases- Email Marketing-- Bento Add-On-- Mailster Add-On-- Omnisend Add-On-- Brevo Add-On-- Moosend Add-On-- Laposta Add-On-- CleverReach Add-On-- MailerLite Add-On-- Drip Add-On-- ConvertKit Add-On-- Groundhogg Add-On Add-On-- GetResponse Add-On-- MailPoet Add-On-- Klaviyo Add-On-- ActiveCampaign Add-On-- dotdigital Add-On-- Mailchimp Add-On-- iContact Add-On-- Constant Contact Add-On-- Campaign Monitor Add-On-- AWeber Add-On- Gallery- Hosting- Integration- PDF- Payment Gateways- Spam- Spreadsheets- Support Platforms- WooCommerce- WordPress Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# CleverReach Add-OnPRO
-
 This knowledge base article relates to the WS Form CleverReach add-on.
 Included with the Agency edition or buy separately for other editions.
 
@@ -106,10 +97,3 @@ This feature is only available if a website visitor is signed in and their WordP
 To enable this feature:
 
 Note that if you created your form using a CleverReach template the field mappings will automatically be created for you.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/twilio/](https://wsform.com/knowledgebase/twilio/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons- Make Add-On- Airtable Add-On- Google Sheets Add-On- AI- CRM- Cloud Storage- Communication-- Webex Add-On-- Twilio Add-On-- Slack Add-On- Databases- Email Marketing- Gallery- Hosting- Integration- PDF- Payment Gateways- Spam- Spreadsheets- Support Platforms- WooCommerce- WordPress Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Twilio Add-OnPRO
-
 This knowledge base article relates to the WS Form Twilio add-on.
 Included with the Agency edition or buy separately for other editions.
 
@@ -98,10 +89,3 @@ If you have file upload or signature fields in your form, you can attach them us
 #### Media Attachments
 
 You can attach files from your media library to your email. To add a media attachment:
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

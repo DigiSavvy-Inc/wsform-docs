@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/licensing/](https://wsform.com/knowledgebase/licensing/)
 
 
-Category
-
-Select...
- Getting Started- The Variable Cheat Sheet- Licensing- Adding Forms to Your Website- Creating a Form- Debug Console - Testing and Debugging Forms- Global Settings- How to Change Email Notification Settings- Installation- Introduction- Publishing Forms- The Anatomy of a Form Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# LicensingPRO
-
 Once you have purchased the plugin, you will be provided with a license key and a link to download a ZIP installation file both in your web browser and in the order confirmation email.
 
 Licensing the plugin ensures you will receive continued software updates and support.
@@ -49,10 +40,3 @@ You can also manually renew a license key.
 Personal licenses can upgrade to Freelance and Agency licenses. Freelance licenses can upgrade to Agency licenses.
 
 To upgrade a license key:
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

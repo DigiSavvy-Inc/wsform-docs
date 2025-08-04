@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/styler/](https://wsform.com/knowledgebase/styler/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms- How to Change Which Style a Form Uses- Upgrade Notes for 1.10.x- CSS Variables Reference- Creating a Light / Dark Form Theme- Styler- Styles- HTML Form Attributes- Setting Custom Breakpoint Sizes- Show a Loader During Form Processing- Responsive Forms- Style Checkboxes- Style Radios Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Styler
-
 The Styler allows you to design an unlimited number of styles that can be applied to any WordPress form built with WS Form with ease. Whether you want to maintain consistent branding across your WordPress site or tailor the appearance of individual forms for specific purposes, the Styler offers the flexibility to create, design, and manage styles effortlessly.
 
 For developers, the Styler provides access to over 400 customizable settings, all easily managed using CSS variables for maximum flexibility and control. For beginners, creating styles is a breeze with intuitive options for adjusting colors, sizes, and other design elements, no coding required.
@@ -24,13 +15,11 @@ A style in WS Form is a structured hierarchy of CSS variables, beginning with hi
 
 There are two ways to open the Styler to edit a style.
 
-## Quick Start: The Form Category
 
 The Form category in the Styler can be used to change the majority of the styling in a form and provides a quick way of getting the bulk of your form styled. For example, changing the Base color will change other elements on the form such as label colors, help text and input colors automatically.
 
 The Form category includes the following style settings:
 
-Sub Category
 Setting
 Type
 Default
@@ -205,7 +194,6 @@ The Styler will open on the left and side of your form by default.
 
 The Style Name is shown at the top of the Styler. To edit the style name click the Settings icon at the top, change the name, then click the Save icon.
 
-### Setting Search
 
 You can search for settings in a variety of ways:
 
@@ -219,7 +207,6 @@ To open a category and view the sub-categories click the category name.
 
 Use the Form category to change the main colors, sizes and typography settings for your form.
 
-For more granular control, browse the other top level categories or use the Setting Search to find a particular setting.
 
 ### Style Setting
 
@@ -328,10 +315,3 @@ If you are making significant changes to a style, consider cloning it or exporti
 ## Repositioning the Styler
 
 You can temporarily move the Styler by clicking and dragging the WS Form logo. If the Styler is position at the left or right of the screen, WS Form will attempt to lock it in position and introduce left or right margin to the body element to provide you with a better view of your form.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

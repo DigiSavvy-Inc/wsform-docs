@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/section-library/](https://wsform.com/knowledgebase/section-library/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections- Sections- Repeatable Sections- Section Library Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Section Library
-
 The WS Form section library contains ready-made sections that can be used to quickly create forms.
 
 The section library can be accessed from the Toolbox menu under the Sections tab.
@@ -56,13 +47,5 @@ It is possible to create library items that contain more than one section. This 
 
 Additionally, any conditional logic associated with the sections and fields are also incorporated when the library item is added to the form. This allows you to retain interactive features of your form, tab and section exports.
 
-## Searching Sections
 
 At the top of the Sections tab is a keyword search. By entering a keyword into this field you can search any of the sections in the My Sections and built-in categories.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

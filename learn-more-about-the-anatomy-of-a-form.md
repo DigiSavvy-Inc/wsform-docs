@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/the-anatomy-of-a-form/](https://wsform.com/knowledgebase/the-anatomy-of-a-form/)
 
 
-Category
-
-Select...
- Getting Started- The Variable Cheat Sheet- Licensing- Adding Forms to Your Website- Creating a Form- Debug Console - Testing and Debugging Forms- Global Settings- How to Change Email Notification Settings- Installation- Introduction- Publishing Forms- The Anatomy of a Form Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# The Anatomy of a Form
-
 Each of your website pages can have one or many forms on it. Each form on a web page is known as a form instance. You can have as many form instances on a page as you need. For example, in addition to a contact us form, you could add a  newsletter sign-up form in the header and the footer of your website.
 
 ## Tabs
@@ -59,10 +50,3 @@ IF: This is used to check one or more conditions, e.g., Does the field contain s
 THEN: If the IF condition is true, WS Form will run any defined actions, e.g., Show a field. You can add one or more THEN actions to run.
 
 ELSE: If the IF condition is not true, WS Form will run the actions., e.g., Hide a field. You can add one or more ELSE actions to run.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

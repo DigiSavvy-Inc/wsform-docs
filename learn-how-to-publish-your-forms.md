@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/publishing-forms/](https://wsform.com/knowledgebase/publishing-forms/)
 
 
-Category
-
-Select...
- Getting Started- The Variable Cheat Sheet- Licensing- Adding Forms to Your Website- Creating a Form- Debug Console - Testing and Debugging Forms- Global Settings- How to Change Email Notification Settings- Installation- Introduction- Publishing Forms- The Anatomy of a Form Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Publishing Forms
-
 Forms behave much like regular WordPress posts and have two states: Draft and Published. When you create a new form, it will be in a Draft state. This means that it cannot be seen by anyone on your website. Website visitors can only see your form when it is published.
 
 ## Preview
@@ -29,10 +20,3 @@ When you preview your form, WS Form will always show your form with your most re
 ## Auto Publishing
 
 If you don’t want to click Publish each time to push your changes live (although we recommend this workflow for production websites), you can enable auto publishing. To do this:
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

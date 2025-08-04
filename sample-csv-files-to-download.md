@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/sample-csv-files/](https://wsform.com/knowledgebase/sample-csv-files/)
 
 
-Category
-
-Select...
- Getting Started Accessibility Actions Add-Ons Building Forms- Form Settings- Creating a Form- Tabs- Sections- Fields- How to Change Email Notification Settings- Sample CSV Files - Free Download- Previewing Forms- Publishing Forms- Right-To-Left Support- Sidebars- The Anatomy of a Form- Form Validation- The Layout Editor- Undo Tool Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Sample CSV Files – Free Download
-
 A comma-separated values (CSV) file is a delimited text file that uses a comma to separate values.
 
 Below are some sample CSV files that you can download for free. Use these in WS Form or with any project you wish.
@@ -48,10 +39,3 @@ Learn more about Data Sources.
 You can import any CSV file into a data grid. To import a CSV file, either click the Import  icon or drag a CSV file into the data grid area. When you drag the file into the data grid area, a blue box will appear with a dashed outline. Release the file into that area, and the CSV import will begin.
 
 Note that when you import a file, all data in that data grid will be replaced with the CSV you import.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

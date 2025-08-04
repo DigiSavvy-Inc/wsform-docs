@@ -3,15 +3,6 @@
 > **Source**: [https://wsform.com/knowledgebase/email-configuration/](https://wsform.com/knowledgebase/email-configuration/)
 
 
-Category
-
-Select...
- Getting Started- The Variable Cheat Sheet- Licensing- Adding Forms to Your Website- Creating a Form- Debug Console - Testing and Debugging Forms- Global Settings- How to Change Email Notification Settings- Installation- Introduction- Publishing Forms- The Anatomy of a Form Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# How to Change Email Notification Settings
-
 When a form is saved or submitted, WS Form can send one or more emails. You can change who an email is sent to by changing the To and From email addresses in the Send Email action settings.
 
 To change your email settings:
@@ -41,10 +32,3 @@ By default, WS Form uses #blog_admin_email and#blog_name which will enter the 
 Tip: Some email clients do not like emails that are sent to and from the same email address. We would recommend changing the from email address to something like do.not.reply@yourdomain.com to ensure these are different. Also some email gateways require you to register sender email addresses before you can use them. Ensure you have registered all from addresses if that is the case.
 
 To learn more about the available settings for the Send Email action, click here.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-

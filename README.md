@@ -6,7 +6,6 @@ This repository contains the complete knowledge base documentation for [WS Form]
 
 This documentation covers all aspects of WS Form including:
 
-- **Getting Started** - Installation, basic configuration, and first steps
 - **Form Building** - Creating and customizing forms
 - **Field Types** - Comprehensive guide to all available fields
 - **Actions** - Form submission actions and integrations
@@ -21,7 +20,6 @@ This documentation covers all aspects of WS Form including:
 
 The documentation is organized into 131 markdown files covering:
 
-- **44 Category Archives** - Topic-based collections (files ending in `-archives-ws-form.md`)
 - **87 Individual Articles** - Detailed guides and references
 
 Each documentation file includes:
@@ -31,7 +29,6 @@ Each documentation file includes:
 
 ## 🔍 Finding Information
 
-### By Category
 Look for archive files that group related topics:
 - `getting-started-archives-ws-form.md`
 - `fields-archives-ws-form.md`
@@ -44,7 +41,6 @@ Browse individual article files for specific features:
 - `conditional-logic-ws-form.md`
 - `calculated-fields-ws-form.md`
 
-### By Search
 Use your text editor or IDE's search functionality to find specific terms across all documentation files.
 
 ## 🤖 AI Integration

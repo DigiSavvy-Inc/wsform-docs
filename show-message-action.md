@@ -2,16 +2,6 @@
 
 > **Source**: [https://wsform.com/knowledgebase/show-message/](https://wsform.com/knowledgebase/show-message/)
 
-
-Category
-
-Select...
- Getting Started Accessibility Actions- Actions- Advanced- Basic-- Send Email Action-- Save Submission Action-- Show Message Action-- Redirect Action Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
-
-Search
-
-# Show Message Action
-
 The Show Message action shows a message when a user saves or submits a form. The message can be positioned above or below the form. Messages have a variety of display options that can be configured when you add the action.
 
 It is possible to add multiple message actions, so that messages are shown one after the other when the form is saved or submitted. You can drag and drop the actions to determine which order the messages are displayed in.
@@ -63,10 +53,3 @@ If enabled the message will be hidden after the Show Duration has elapsed.
 ## Show Form After Duration
 
 If enable the form will be shown after the Show Duration has elapsed.
-
- 
-
-[Knowledge Base](https://wsform.com/knowledgebase/)
-
-Search
-
