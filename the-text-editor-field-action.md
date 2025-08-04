@@ -1,0 +1,80 @@
+# The Text Editor Field Action
+
+> **Source**: [https://wsform.com/knowledgebase/texteditor/](https://wsform.com/knowledgebase/texteditor/)
+
+
+Category
+
+Select...
+ Getting Started Accessibility Actions Add-Ons Building Forms Calculated Fields Conditional Logic Custom Field Plugins Data Grids Developers E-Commerce Fields- Advanced- Basic- Buttons- Choice- Consent- Content-- Validation Field-- Summary Field-- Note Field-- Spacer Field-- Divider Field-- Text Editor Field-- HTML Field-- Message Field- E-Commerce- Mapping- Repeatable Sections- Spam Protection Front-End Frameworks GDPR Hooks Licensing Migration PHP Functions Populating Forms Publishing Forms Reporting Sections Security Spam Protection Statistics Styling Forms Submissions Tracking Troubleshooting Tutorials
+
+Search
+
+# Text Editor Field
+
+The Text Editor field is  used to output text on your form. Text is entered using the standard WordPress visual editor, which means you can apply formatting to the text such as bold, italics, and underline.
+
+## Adding a Text Editor Field
+
+To learn how to add, edit, clone, move, resize, offset, or delete a text editor field, please click here.
+
+## Field Settings
+
+To edit the settings for this field type, click the settings  icon on the field itself. Click the Save & Close or Save button to save your changes. If you do not want to save your changes, you can click the Cancel button or click any other form element to close the field settings sidebar.
+
+## Basic
+
+The basic tab contains settings that the majority of WS Form users will need to control a field. The settings are as follows:
+
+### Label
+
+The label is used solely for identifying the text editor field when editing your form. The label is not shown to the website visitor.
+
+### Hidden
+
+If checked the field will be hidden on the form. It can be shown again using conditional logic or your own JavaScript.
+
+### Content
+
+Enter the text you want to display into this WordPress visual editor.
+
+### Exclusions
+
+#### Exclude From Emails
+
+By default, WS Form uses the #email_submission variable in email templates. This provides a simple way of displaying all of the submitted fields in emails. Sometimes there might be a need to exclude a field from an email, for example, you might want to not include some introductory copy on a form, or hide a field you’re using with conditional logic to show or hide an element.
+
+To hide a field from emails, check this box.
+
+Other WS Form add-ons may add exclusions in this section too, such as the WooCommerce add-on which allows you to exclude certain fields from the cart entries.
+
+## Advanced
+
+The advanced tab contains additional form attribute settings that provide further control over how a field is rendered.
+
+### Styles
+
+Use the Styles settings to change the design of the text editor field.
+
+#### Vertical Alignment
+
+The vertical alignment option allows you to choose how this field will be vertically aligned in relation to fields in the same row. The options are:
+
+### Classes
+
+For developers WS Form allows you to add your own classes to fields.
+
+#### Field Wrapper
+
+The wrapper CSS class setting enables you to add a class (or classes) to a field wrapper. Field wrappers are sections of HTML added around a field to position them on the page. To add multiple classes, add a space between the class names.
+
+### Breakpoints
+
+The breakpoint settings define the width of a field and also what the offset (how many columns from the left-hand side of the form or the previous field) of a field is for each breakpoint. For more information about the breakpoint settings and capabilities of WS Form, click here.
+
+ 
+
+[Knowledge Base](https://wsform.com/knowledgebase/)
+
+Search
+
